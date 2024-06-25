@@ -23,11 +23,11 @@ website:
         text: Case Studies
       - href: about.qmd
         text: About
-  page-footer: 
-    background: gray
-    left: ""
+  page-footer:   
+    left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
     center: "![Logo image](/logos/logos-together.png)"
     right: " "
+    background: gray 
   back-to-top-navigation: true 
 format:
   html:
