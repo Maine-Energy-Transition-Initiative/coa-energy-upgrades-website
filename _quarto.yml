@@ -23,6 +23,8 @@ website:
         text: Case Studies
       - href: about.qmd
         text: About
+      - href: goals.qmd
+        text: Goals
     right: 
       - href: signuppage.qmd
         text: SIGN UP FOR THE PROGRAM
@@ -30,7 +32,7 @@ website:
     left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
     center: "![](/logos/logos-together.png)"
     right: ""
-    background: gray
+    background: "#808080"
   back-to-top-navigation: true 
 format:
   html:

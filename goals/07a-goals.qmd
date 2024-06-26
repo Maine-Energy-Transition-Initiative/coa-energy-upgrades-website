@@ -1,8 +1,8 @@
 ---
 title: "7a Basement/crawl space sealing "
 description: "Prevents heat from leaving the house and moisture and pests from entering"
-image: "CEC.png"
-image-alt: "placeholderphotot."
+image: cottage_basement_improvements.jpeg
+image-alt: "basement with vapor barrier and spray foam"
 ---
 
  Energy savings of 10-30%

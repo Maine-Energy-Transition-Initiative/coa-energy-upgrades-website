@@ -1,8 +1,8 @@
 ---
 title: "3 Window Dressers"
 description: "Reduces draftiness, making you feel warmer and lowering heating costs"
-image: "CEC.png"
-image-alt: "placeholderphotot."
+image: BTA_window_dressers.jpg
+image-alt: "Room with big windows, that have windows dressers"
 ---
 
  Energy savings of 5-10%
