@@ -1,0 +1,12 @@
+---
+title: "8 Air source heat pumps"
+description: "More energy efficient air heating and cooling year-round, saving costs on long-term energy bills and reducing fossil fuel usage"
+image: "CEC.png"
+image-alt: "placeholderphotot."
+---
+
+ Energy savings of 10-40%
+
+-   Provide winter heating and summer cooling and dehumidification for your home.
+
+-   Work in temperatures as low as -15F, and can be the sole source of heat if your home is well insulated.

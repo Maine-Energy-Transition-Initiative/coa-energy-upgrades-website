@@ -1,0 +1,14 @@
+---
+title: "10 Solar"
+description: "Generates self-sufficient energy, lowering energy bills and reducing dependence on fossil fuels and commercial energy grids"
+image: "CEC.png"
+image-alt: "placeholderphotot."
+---
+
+ Energy production up to 100%
+
+-   Install rooftop solar to supply all your electricity needs.
+
+-   30% federal tax credit and financing options are available.
+
+-   Battery backup is needed for solar to work during a power outage

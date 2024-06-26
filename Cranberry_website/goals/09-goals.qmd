@@ -1,0 +1,8 @@
+---
+title: "9 Electric Vehicle"
+description: "Removes gas bills and reduces fossil fuel dependence"
+image: "../Cranberry_website/images/electric_car.jpeg"
+image-alt: "black electric truck"
+---
+
+-   A 2020 study by Consumer Reports found that the lifetime ownership costs were significantly lower for EVs. Most EVs saved between \$6,000 - \$10,000 over their lifetimes.

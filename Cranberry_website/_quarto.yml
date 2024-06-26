@@ -15,7 +15,7 @@ website:
         href: https://github.com/LaurieLBaker/CEDS-Energy
       
     left:
-      - href: goals.qmd
+      - href: process.qmd
         text: Our Process
       - href: communities.qmd
         text: Communities
@@ -23,11 +23,14 @@ website:
         text: Case Studies
       - href: about.qmd
         text: About
+    right: 
+      - href: signuppage.qmd
+        text: SIGN UP FOR THE PROGRAM
   page-footer:   
     left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
-    center: "![Logo image](/logos/logos-together.png)"
-    right: " "
-    background: gray 
+    center: "![](/logos/logos-together.png)"
+    right: ""
+    background: gray
   back-to-top-navigation: true 
 format:
   html:
