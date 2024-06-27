@@ -1,0 +1,6 @@
+freeze: true
+
+execute:
+  echo: false
+
+citation: false

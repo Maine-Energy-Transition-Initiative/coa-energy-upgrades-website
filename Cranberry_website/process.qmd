@@ -3,7 +3,7 @@ title: ""
 format: html
 editor: visual
 listing:
-  contents: goals
+  contents: tensteps
   type: grid
   sort: "number desc"
   fields: 
@@ -26,4 +26,4 @@ The goal of this program is to reduce total carbon emissions in Maine communitie
 
 5.  Assess overall household energy loss by testing for air leaks in the home during a Blower Door test
 
-# 
+# There are 10\* steps for reducing energy costs at your home
