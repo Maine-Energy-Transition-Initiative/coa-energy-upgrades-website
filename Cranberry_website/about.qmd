@@ -10,7 +10,7 @@ The Community Energy Center at College of the Atlantic in Bar Harbor recently re
 
 In addition to the assessment team, we have a data science team that can quantitatively analyze the benefits provided by the installed upgrades. For a limited number of homeowners, the data science team can also measure air quality contaminants using wifi-enabled monitors and conduct before and after monitoring of energy upgrades.
 
-![The Community Energy Center at College of the Atlantic](Images/CEC.jpg)
+![The Community Energy Center at College of the Atlantic](images/CEC.jpg)
 
 # **Local background**
 
