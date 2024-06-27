@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Homepage -</title>
+<title>Homepage - Other Improvements</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -140,7 +80,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Homepage</span>
     </a>
   </div>
@@ -151,25 +91,25 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./process.html" aria-current="page"> 
+    <a class="nav-link" href="../process.html"> 
 <span class="menu-text">Our Process</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./communities.html"> 
+    <a class="nav-link" href="../communities.html"> 
 <span class="menu-text">Communities</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cases.html"> 
+    <a class="nav-link" href="../cases.html"> 
 <span class="menu-text">Case Studies</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./signuppage.html"> 
+    <a class="nav-link" href="../signuppage.html"> 
 <span class="menu-text">SIGN UP FOR THE PROGRAM</span></a>
   </li>  
 </ul>
@@ -190,238 +130,39 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Other Improvements</h1>
+</div>
 
 
 
-<section id="goals-of-the-program" class="level1">
-<h1>Goals of the Program</h1>
-<p>The goal of this program is to reduce total carbon emissions in Maine communities through <strong>FREE</strong> comprehensive home energy audits. During energy audit we will:</p>
-<ol type="1">
-<li><p>Monitor inside and outside of your home for moisture problems, air leaks, missing insulation, and possible safety risks</p></li>
-<li><p>Measure the efficiency of your household appliances - e.g.&nbsp;your fridge, washer/dryer using a meter</p></li>
-<li><p>Check your attic and basement for moisture problems, air leaks, missing insulation, etc.</p></li>
-<li><p>Conduct safety tests for your combustion appliances</p></li>
-<li><p>Assess overall household energy loss by testing for air leaks in the home during a Blower Door test</p></li>
-</ol>
-</section>
-<section id="section" class="level1">
-<h1></h1>
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><strong>High-efficiency wood stove</strong></p>
+<p>Consumes less wood while retaining all the benefits of a wood stove</p>
+<p>New high-efficiency wood stoves are up to twice as efficient as older models, cutting wood consumption by up to half while providing as much heat to the home. Wood stoves are a great source of backup heat during power outages.</p>
+<p><strong>Whole-home surge protection</strong></p>
+<p>Improved home safety and resilience, provides insurance against electrical surges</p>
+<p>As we electrify our energy consumption, and especially with the complex electronics in these systems, it is essential to install whole-home surge protection. These devices can cost $100-400, and need to be installed by an electrician. A single surge event can cause more damage than the upfront cost of the surge protector.</p>
+<p><strong>Ventilation</strong></p>
+<p>Improves air quality and promotes even temperature distribution</p>
+<p>As we seal our buildings and reduce air leakage (drafts), mechanical ventilation becomes more important. In many homes, exhaust fans in the kitchen and bathrooms are adequate. When homes are very tight, ventilation that both exhausts stale air and brings in fresh air is needed. Energy-recovery and heat-recovery ventilators exchange heat between the incoming and outgoing air, to temper the fresh air coming in and reduce heat loss.</p>
+<p><em>List made by David Gibson, Director of Energy at College of the Atlantic</em></p>
 
 
 
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1719405816312" data-listing-reading-time-sort="1" data-listing-word-count-sort="52">
-<a href="./goals/01-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/CEC.png" class="thumbnail-image card-img" style="height: 150px;" alt="placeholderphotot.">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-1 EPA WaterSense showerheads
-</h5>
-<div class="card-text listing-description">
-Use less water without compromising pressure, saving money on water heating bills
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1719406393154" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
-<a href="./goals/02-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/CEC.png" class="thumbnail-image card-img" style="height: 150px;" alt="placeholderphotot.">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-2 LED light bulbs
-</h5>
-<div class="card-text listing-description">
-Higher quality, longer-lasting light that costs less on electricity bills
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1719427389057" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
-<a href="./goals/03-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/BTA_window_dressers.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Room with big windows, that have windows dressers">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-3 Window Dressers
-</h5>
-<div class="card-text listing-description">
-Reduces draftiness, making you feel warmer and lowering heating costs
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1719427301106" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
-<a href="./goals/04-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/cottage_water_heater.jpeg" class="thumbnail-image card-img" style="height: 150px;" alt="New heatpump water heater in a basement">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-4 Heat pump water heater
-</h5>
-<div class="card-text listing-description">
-More energy efficient water heating, saving costs on long-term energy bills and reducing fossil fuel usage
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1719406742952" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<a href="./goals/05-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/CEC.png" class="thumbnail-image card-img" style="height: 150px;" alt="placeholderphotot.">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-5 Electric appliances
-</h5>
-<div class="card-text listing-description">
-Improved health and safety while improving energy costs and reducing fossil fuel usage
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1719406808420" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
-<a href="./goals/06-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/CEC.png" class="thumbnail-image card-img" style="height: 150px;" alt="placeholderphotot.">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-6 Energy audit
-</h5>
-<div class="card-text listing-description">
-Comprehensive guide to energy issues within the home
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1719427165459" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
-<a href="./goals/07a-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/cottage_basement_improvements.jpeg" class="thumbnail-image card-img" style="height: 150px;" alt="basement with vapor barrier and spray foam">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-7a Basement/crawl space sealing
-</h5>
-<div class="card-text listing-description">
-Prevents heat from leaving the house and moisture and pests from entering
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1719427834028" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
-<a href="./goals/07b-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/witch-attic-after.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="attic with blown celulose insulation">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-7b Attic and wall air sealing and insulation
-</h5>
-<div class="card-text listing-description">
-Prevents heat from escaping the house, improving the efficacy of insulation
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1719427951457" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
-<a href="./goals/08-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/witchcliff_heat_pumps.jpeg" class="thumbnail-image card-img" style="height: 150px;" alt="building with two outside compressors for the ducked air source heat pump">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-8 Air source heat pumps
-</h5>
-<div class="card-text listing-description">
-More energy efficient air heating and cooling year-round, saving costs on long-term energy bills and reducing fossil fuel usage
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1719428125740" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
-<a href="./goals/09-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/electric_car.jpeg" class="thumbnail-image card-img" style="height: 150px;" alt="black Ford Lightning electric truck parked under a tree">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-9 Electric Vehicle
-</h5>
-<div class="card-text listing-description">
-Removes gas bills and reduces fossil fuel dependence
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1719428028642" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
-<a href="./goals/10-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/david-solar.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Image of a roof mounted solar array on a white house with a green standing seam metal roof in front of a small sunflower patch. The solar panels and the sunflowers are facing the same direction">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-10 Solar
-</h5>
-<div class="card-text listing-description">
-Generates self-sufficient energy, lowering energy bills and reducing dependence on fossil fuels and commercial energy grids
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1719507443135" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
-<a href="./goals/other-goals.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./goals/CEC.png" class="thumbnail-image card-img" style="height: 150px;" alt="placeholderphotot.">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Other Improvements
-</h5>
-<div class="card-text listing-description">
-<strong>High-efficiency wood stove</strong>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -982,7 +723,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p>Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609</p>
 </div>   
     <div class="nav-footer-center">
-<p><img src=".\logos/logos-together.png" class="img-fluid"></p>
+<p><img src="..\logos/logos-together.png" class="img-fluid"></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

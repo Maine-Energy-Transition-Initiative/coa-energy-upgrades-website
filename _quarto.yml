@@ -23,8 +23,6 @@ website:
         text: Case Studies
       - href: about.qmd
         text: About
-      - href: goals.qmd
-        text: Goals
     right: 
       - href: signuppage.qmd
         text: SIGN UP FOR THE PROGRAM
