@@ -1,6 +1,6 @@
 ---
 title: "Other Improvements"
-description: ""
+description: " "
 image: placeholder_steps.jpg
 image-alt: "placeholderphotot."
 ---
