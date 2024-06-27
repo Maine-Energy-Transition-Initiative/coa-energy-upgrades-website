@@ -1,0 +1,29 @@
+---
+title: ""
+format: html
+editor: visual
+listing:
+  contents: goals
+  type: grid
+  sort: "number desc"
+  fields: 
+    - title
+    - description
+    - image
+---
+
+# Goals of the Program
+
+The goal of this program is to reduce total carbon emissions in Maine communities through **FREE** comprehensive home energy audits. During energy audit we will:
+
+1.  Monitor inside and outside of your home for moisture problems, air leaks, missing insulation, and possible safety risks
+
+2.  Measure the efficiency of your household appliances - e.g. your fridge, washer/dryer using a meter
+
+3.  Check your attic and basement for moisture problems, air leaks, missing insulation, etc.
+
+4.  Conduct safety tests for your combustion appliances
+
+5.  Assess overall household energy loss by testing for air leaks in the home during a Blower Door test
+
+# 
