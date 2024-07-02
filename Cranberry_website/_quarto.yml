@@ -4,7 +4,7 @@ project:
 execute:
   freeze: auto
 website:
-  title: "Homepage"
+  title: "Home"
   navbar:
     tools:
       - icon: globe2
