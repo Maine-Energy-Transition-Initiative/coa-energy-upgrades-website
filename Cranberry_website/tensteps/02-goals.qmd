@@ -1,5 +1,5 @@
 ---
-title: "2 LED light bulbs"
+title: "2 - LED light bulbs"
 description: "Higher quality, longer-lasting light that costs less on electricity bills"
 image: placeholder_steps.jpg
 image-alt: "placeholderphotot."

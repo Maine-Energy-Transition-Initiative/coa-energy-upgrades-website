@@ -1,5 +1,5 @@
 ---
-title: "8 Air source heat pumps"
+title: "8 - Air source heat pumps"
 description: "More energy efficient air heating and cooling year-round, saving costs on long-term energy bills and reducing fossil fuel usage"
 image: witchcliff_heat_pumps.jpeg
 image-alt: "building with two outside compressors for the ducked air source heat pump"

@@ -1,5 +1,5 @@
 ---
-title: "9 Electric Vehicle"
+title: "9 - Electric Vehicle"
 description: "Removes gas bills and reduces fossil fuel dependence"
 image: electric_car.jpeg
 image-alt: "black Ford Lightning electric truck parked under a tree"

@@ -1,5 +1,5 @@
 ---
-title: "3 Window Dressers"
+title: "3 - Window Dressers"
 description: "Reduces draftiness, making you feel warmer and lowering heating costs"
 image: BTA_window_dressers.jpg
 image-alt: "Room with big windows, that have windows dressers"

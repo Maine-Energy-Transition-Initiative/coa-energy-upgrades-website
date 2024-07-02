@@ -1,5 +1,5 @@
 ---
-title: "7b Attic and wall air sealing and insulation"
+title: "7 - Attic and wall air sealing and insulation"
 description: "Prevents heat from escaping the house, improving the efficacy of insulation"
 image: witch-attic-after.jpg
 image-alt: "attic with blown celulose insulation"

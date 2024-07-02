@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "About this program"
 format: html
 editor: visual
 ---
-
-# **This program**
 
 The Community Energy Center at College of the Atlantic in Bar Harbor recently received a grant from the U.S. Department of Energy to make home energy improvements more accessible in Downeast Maine. Our process begins with an in-depth assessment of a home to identify the most cost-effective upgrades to improve comfort and energy efficiency. For homeowners who want to make upgrades, the team can coordinate with contractors to reduce hassle and costs. 
 
@@ -32,4 +30,4 @@ ngrohoski\@coa.edu
 
 ### **References:**
 
--   EIA. <https://www.eia.gov/state/data.php?sid=ME#ConsumptionExpenditures>. Accessed on Feb 6, 2024.
+-   EIA. <https://www.eia.gov/state/data.php?sid=ME#ConsumptionExpenditures>. *Accessed on Feb 6, 2024.*

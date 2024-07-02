@@ -1,13 +1,12 @@
 [
   {
-    "listing": "/10steps.html",
+    "listing": "/process.html",
     "items": [
       "/tensteps/01-goals.html",
       "/tensteps/02-goals.html",
       "/tensteps/03-goals.html",
       "/tensteps/04-goals.html",
       "/tensteps/05-goals.html",
-      "/tensteps/06-goals.html",
       "/tensteps/07a-goals.html",
       "/tensteps/07b-goals.html",
       "/tensteps/08-goals.html",
@@ -17,14 +16,13 @@
     ]
   },
   {
-    "listing": "/process.html",
+    "listing": "/10steps.html",
     "items": [
       "/tensteps/01-goals.html",
       "/tensteps/02-goals.html",
       "/tensteps/03-goals.html",
       "/tensteps/04-goals.html",
       "/tensteps/05-goals.html",
-      "/tensteps/06-goals.html",
       "/tensteps/07a-goals.html",
       "/tensteps/07b-goals.html",
       "/tensteps/08-goals.html",

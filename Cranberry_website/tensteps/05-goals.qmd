@@ -1,5 +1,5 @@
 ---
-title: "5 Electric appliances"
+title: "5 - Electric appliances"
 description: "Improved health and safety while improving energy costs and reducing fossil fuel usage"
 image: placeholder_steps.jpg
 image-alt: "placeholderphotot."

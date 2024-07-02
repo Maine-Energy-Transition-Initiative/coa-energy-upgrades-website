@@ -1,5 +1,5 @@
 ---
-title: "1 EPA WaterSense showerheads"
+title: "1 - EPA WaterSense showerheads"
 description: "Use less water without compromising pressure, saving money on water heating bills"
 image: placeholder_steps.jpg
 image-alt: "placeholderphotot."

@@ -10,9 +10,6 @@ website:
       - icon: globe2
         text: Community Energy Center
         href: https://www.coa.edu/cec/
-      - icon: github
-        text: Project Github Repo
-        href: https://github.com/LaurieLBaker/CEDS-Energy
       
     left:
       - href: process.qmd
@@ -29,9 +26,11 @@ website:
   page-footer:   
     left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
     center: "![](logos/Logos-together.png)"
-    right: ""
+    right:  
+      - icon: github
+        href: https://github.com/LaurieLBaker/CEDS-Energy
     background: "#808080"
-  back-to-top-navigation: true 
+  back-to-top-navigation: false 
 format:
   html:
     theme: 

@@ -1,5 +1,5 @@
 ---
-title: "7a Basement/crawl space sealing "
+title: "6 - Basement/crawl space sealing "
 description: "Prevents heat from leaving the house and moisture and pests from entering"
 image: cottage_basement_improvements.jpeg
 image-alt: "basement with vapor barrier and spray foam"

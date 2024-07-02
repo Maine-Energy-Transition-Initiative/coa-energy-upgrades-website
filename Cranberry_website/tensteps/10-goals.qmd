@@ -1,5 +1,5 @@
 ---
-title: "10 Solar"
+title: "10 - Solar"
 description: "Generates self-sufficient energy, lowering energy bills and reducing dependence on fossil fuels and commercial energy grids"
 image: david-solar.jpg
 image-alt: "Image of a roof mounted solar array on a white house with a green standing seam metal roof in front of a small sunflower patch. The solar panels and the sunflowers are facing the same direction"
