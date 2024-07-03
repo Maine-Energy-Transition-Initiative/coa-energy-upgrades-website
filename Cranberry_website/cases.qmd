@@ -7,7 +7,7 @@ css: style.css
 
 # Home Energy Improvement Case Studies
 
-This two case studies are buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildinsg are really similar to average Maine homes.
+This two case studies are buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10\* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildings are really similar to average Maine homes.
 
 ## Cottage
 
@@ -18,7 +18,6 @@ The Cottage house was built in 1880 and the residents over the years have compla
 ![Cottage basement after improvements were made.](images/cottage_basement_improvements.jpeg){fig-alt="Image of the basement of Cottage after energy improvements have been made. The walls have been spray foamed and there is thick rubber vapor barrier over the floor and half way up the walls." fig-align="left" width="396"}
 
 Before the energy improvements were made the total amount of energy the house was using was high and most was being wasted do to the leaky basement. Now the house is much tighter, uses less energy more efficiently and is no longer reliant on fossil fuels. The residents no longer have moisture issues and comfortable heating and cooling year round.
-
 
 ## Carriage
 
@@ -31,4 +30,3 @@ The Carriage house was built in 1887 and the residents over the years have compl
 ![Carriage's attic after energy improvements.](images/carriage_after.jpg){fig-alt="Image of Carriges attic after the insulation was fixed and a ceiling was placed." fig-align="left" width="396"}
 
 Before the energy improvements were made the total amount of energy the house was using was high and most was being wasted do to the leaky basement and attic. Now the house is much tighter, uses less energy more efficiently and is no longer reliant on fossil fuels. Now the residents have a much more evenly heated and cooled home.
-
