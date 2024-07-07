@@ -1,5 +1,5 @@
 ---
-title: "Case Studies"
+title: ""
 format: html
 editor: visual
 css: style.css
@@ -7,9 +7,9 @@ css: style.css
 
 # Home Energy Improvement Case Studies
 
-This two case studies are buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10\* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildings are really similar to average Maine homes.
+The two case studies below are of the buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10\* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildings are really similar to average Maine homes.
 
-## Cottage
+## Cottage Case Study
 
 ![](images/cottage.jpeg){fig-alt="Small, white, two story house with a raised stone foundation and a large fenced and covered porch."}
 
@@ -19,7 +19,7 @@ The Cottage house was built in 1880 and the residents over the years have compla
 
 Before the energy improvements were made the total amount of energy the house was using was high and most was being wasted do to the leaky basement. Now the house is much tighter, uses less energy more efficiently and is no longer reliant on fossil fuels. The residents no longer have moisture issues and comfortable heating and cooling year round.
 
-## Carriage
+## Carriage Case Study
 
 ![](images/carriage_house.jpg){fig-alt="Image of the front of Carriage house. It is a wide blue house with a standing seem metal roof. There is a stone foundation and steps up to the front porch."}
 
