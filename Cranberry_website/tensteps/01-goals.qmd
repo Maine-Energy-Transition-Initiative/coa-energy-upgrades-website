@@ -3,6 +3,8 @@ title: "1 - EPA WaterSense showerheads"
 description: "Use less water without compromising pressure, saving money on water heating bills"
 image: shower-head.jpg
 image-alt: "placeholderphotot."
+page-footer:   
+    center: "![](/Logos-together-ten.png)"
 ---
 
 **1. EPA WaterSense showerheads**  Energy savings of 5-10%

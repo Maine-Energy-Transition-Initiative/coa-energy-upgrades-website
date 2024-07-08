@@ -4,6 +4,10 @@ project:
 execute:
   freeze: auto
 website:
+  google-analytics:
+    tracking-id: "G-5J567MJVD0"
+    anonymize-ip: true
+  favicon: logos/coa-seal-transparent.png
   title: "Home"
   navbar:
     tools:
