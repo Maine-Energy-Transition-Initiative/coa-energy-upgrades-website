@@ -17,3 +17,14 @@ Our team can perform a free home energy assessment, giving you an objective look
 
 ![Insulating an attic using a cellulose blower](images/cellulose-blower-s.jpg){fig-align="right" text-align="right" fig-alt="Person insulating atiic with cellulose blower"}
 :::
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5J567MJVD0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5J567MJVD0');
+</script>
