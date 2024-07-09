@@ -7,6 +7,20 @@ page-footer:
     center: "![](/Logos-together-ten.png)"
 ---
 
+
+:::: {.columns}
+
+::: {.column width="10"}
+
+![](shower-head.jpg){width=50%}
+:::
+
+::: {.column width="10%"}
+<break>
+:::
+
+::: {.column width="80%"}
+
 **1. EPA WaterSense showerheads**  Energy savings of 5-10%
 
 Use less water without compromising pressure, saving money on water heating bills
@@ -14,3 +28,6 @@ Use less water without compromising pressure, saving money on water heating bill
 -   A 1.5GPM showerhead uses 40% less water and thus 40% less energy to heat the water.
 
 -   A typical family will save 10,000 gallons/year of hot water with low-flow showerheads. 
+:::
+
+::::

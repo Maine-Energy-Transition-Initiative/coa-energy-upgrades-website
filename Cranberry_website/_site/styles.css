@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 body {
-  background-image: path(":\Users\Rudolfs Lukasevics\Desktop\Repos\coa-energy-upgrades-website\Cranberry_website\images\background.jpg");
+  background-image: url("https://github.com/LaurieLBaker/coa-energy-upgrades-website/blob/main/Cranberry_website/images/background.jpg");
   background-size: cover; 
   background-repeat: no-repeat;
   /*background-position: center center;*/
