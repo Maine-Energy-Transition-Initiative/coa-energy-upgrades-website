@@ -5,6 +5,22 @@ image: BTA_window_dressers.jpg
 image-alt: "Room with big windows, that have windows dressers"
 ---
 
+:::: {.columns}
+
+::: {.column width="20%"}
+![](BTA_window_dressers.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
  Energy savings of 5-10%
 
 -   Insulated window inserts improve indoor comfort and energy efficiency for less than 1/10th the cost of replacing windows. [www.windowdressers.org](http://www.windowdressers.org/) 
+
+:::
+
+::::

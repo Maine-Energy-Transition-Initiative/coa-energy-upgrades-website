@@ -7,21 +7,19 @@ page-footer:
     center: "![](/Logos-together-ten.png)"
 ---
 
-
 :::: {.columns}
 
-::: {.column width="10"}
-
-![](shower-head.jpg){width=50%}
+::: {.column width="20%"}
+![](shower-head.jpg)
 :::
 
 ::: {.column width="10%"}
-<break>
+<!-- empty column to create gap -->
 :::
 
-::: {.column width="80%"}
+::: {.column width="70%"}
 
-**1. EPA WaterSense showerheads**  Energy savings of 5-10%
+ Energy savings of 5-10%
 
 Use less water without compromising pressure, saving money on water heating bills
 

@@ -5,6 +5,19 @@ image: cottage_water_heater.jpeg
 image-alt: "New heatpump water heater in a basement"
 ---
 
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![](cottage_water_heater.jpeg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
  Energy savings of 10-20%
 
 -   Use 70% less energy than a standard electric water heater.
@@ -12,3 +25,6 @@ image-alt: "New heatpump water heater in a basement"
 -   Significant rebates available through Efficiency Maine that increase their affordability.
 
 -   Side benefit of helping dehumidify the space they’re in, like a damp basement.
+:::
+
+::::

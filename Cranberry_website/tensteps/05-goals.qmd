@@ -5,8 +5,24 @@ image: placeholder_steps.jpg
 image-alt: "placeholderphotot."
 ---
 
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![](placeholder_steps.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
  Energy savings of up to 10%
 
 -   Measure your refrigerator’s energy use and upgrade to an EnergyStar model as needed. 
 
--   Replace gas cooking equipment with induction or electric for health and safety.
+-   Replace gas cooking equipment with induction or electric for health and safety. 
+:::
+
+::::

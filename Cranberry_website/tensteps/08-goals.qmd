@@ -5,8 +5,23 @@ image: witchcliff_heat_pumps.jpeg
 image-alt: "building with two outside compressors for the ducked air source heat pump"
 ---
 
+:::: {.columns}
+
+::: {.column width="20%"}
+![](witchcliff_heat_pumps.jpeg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
  Energy savings of 10-40%
 
 -   Provide winter heating and summer cooling and dehumidification for your home.
 
 -   Work in temperatures as low as -15F, and can be the sole source of heat if your home is well insulated.
+:::
+
+::::

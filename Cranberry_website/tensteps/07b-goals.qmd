@@ -5,6 +5,19 @@ image: witch-attic-after.jpg
 image-alt: "attic with blown celulose insulation"
 ---
 
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![](witch-attic-after.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="70%"}
+
  Energy savings of 10-25%
 
 -   Because warm air rises, a significant portion of heat loss is through the attic. 
@@ -12,3 +25,6 @@ image-alt: "attic with blown celulose insulation"
 -   Air sealing first ensures that insulation works properly.
 
 -   We recommend 18-24” of cellulose insulation to achieve R60-R80 in attics.
+:::
+
+::::
