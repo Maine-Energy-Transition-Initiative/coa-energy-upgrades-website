@@ -5,7 +5,7 @@ editor: visual
 css: style.css
 ---
 
-# Home Energy Improvement Case Studies
+# Home Energy Upgrades Case Studies
 
 The two case studies below are of the buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10\* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildings are really similar to average Maine homes.
 
