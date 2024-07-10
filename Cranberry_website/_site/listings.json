@@ -2,33 +2,33 @@
   {
     "listing": "/process.html",
     "items": [
-      "/tensteps/01-goals.html",
-      "/tensteps/02-goals.html",
-      "/tensteps/03-goals.html",
-      "/tensteps/04-goals.html",
-      "/tensteps/05-goals.html",
-      "/tensteps/07a-goals.html",
-      "/tensteps/07b-goals.html",
-      "/tensteps/08-goals.html",
-      "/tensteps/09-goals.html",
-      "/tensteps/10-goals.html",
-      "/tensteps/other-goals.html"
+      "/tensteps/01-step.html",
+      "/tensteps/02-step.html",
+      "/tensteps/03-step.html",
+      "/tensteps/04-step.html",
+      "/tensteps/05-step.html",
+      "/tensteps/06-step.html",
+      "/tensteps/07-step.html",
+      "/tensteps/08-step.html",
+      "/tensteps/09-step.html",
+      "/tensteps/10-step.html",
+      "/tensteps/other-steps.html"
     ]
   },
   {
     "listing": "/10steps.html",
     "items": [
-      "/tensteps/01-goals.html",
-      "/tensteps/02-goals.html",
-      "/tensteps/03-goals.html",
-      "/tensteps/04-goals.html",
-      "/tensteps/05-goals.html",
-      "/tensteps/07a-goals.html",
-      "/tensteps/07b-goals.html",
-      "/tensteps/08-goals.html",
-      "/tensteps/09-goals.html",
-      "/tensteps/10-goals.html",
-      "/tensteps/other-goals.html"
+      "/tensteps/01-step.html",
+      "/tensteps/02-step.html",
+      "/tensteps/03-step.html",
+      "/tensteps/04-step.html",
+      "/tensteps/05-step.html",
+      "/tensteps/06-step.html",
+      "/tensteps/07-step.html",
+      "/tensteps/08-step.html",
+      "/tensteps/09-step.html",
+      "/tensteps/10-step.html",
+      "/tensteps/other-steps.html"
     ]
   }
 ]

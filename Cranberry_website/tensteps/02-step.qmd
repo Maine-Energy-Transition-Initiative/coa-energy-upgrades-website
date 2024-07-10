@@ -59,8 +59,8 @@ a:hover {
 <body>
 
 
-<a href="01-goals.html" class="previous">&laquo; Previous</a>
-<a href="03-goals.html" class="next float-end">Next &raquo;</a>
+<a href="01-step.html" class="previous">&laquo; Previous</a>
+<a href="03-step.html" class="next float-end">Next &raquo;</a>
 
   
 </body>
