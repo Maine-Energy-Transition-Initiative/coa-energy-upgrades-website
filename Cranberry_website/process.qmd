@@ -12,18 +12,27 @@ listing:
     - image
 ---
 
-# Goals of the Program
+# Our Process
 
-The goal of this program is to reduce total carbon emissions in Maine communities through **FREE** comprehensive home energy audits. During energy audit we will:
+The first step in increasing your home’s comfort and decreasing your energy bills is getting a comprehensive home energy audit. A home energy audit will take our team 3 to 4 hours to complete and we will follow up with a detailed report of our findings and recommendations for cost-effective upgrades. Here’s what our team of certified Building Analyst Technicians will do during your FREE audit:
 
-1.  Monitor inside and outside of your home for moisture problems, air leaks, missing insulation, and possible safety risks
+::: {layout-ncol=2}
 
-2.  Measure the efficiency of your household appliances - e.g. your fridge, washer/dryer using a meter
+-   We tour the home with you to learn more about your energy systems and concerns you have
 
-3.  Check your attic and basement for moisture problems, air leaks, missing insulation, etc.
+-   We inspect inside and outside of your home, including your attic and basement, for moisture problems, air leaks, missing insulation, and possible safety risks
 
-4.  Conduct safety tests for your combustion appliances
+-   We measure the efficiency of household appliances, e.g., your fridge, using a meter
 
-5.  Assess overall household energy loss by testing for air leaks in the home during a Blower Door test
+-   We inspect your fuel systems and conduct safety tests for your combustion appliances
+
+-   We assess overall household energy loss by testing for air leaks in the home during a blower door test, where we depressurize your house using a large fan
+
+![](images/blower_door.jpg){height=400px fig-align="right" text-align="right" fig-alt="People with the blower door, mesuring the pressure difference" }
+:::
+
+After the audit, you will receive a report detailing our findings and recommended improvements. See our “10 Steps to Reduce Home Energy Costs” below for examples of what we might recommend for your home. 
+
+Some improvements are inexpensive (or free, in the case of LED lightbulbs and low-flow showerheads!), while others can be more costly up-front. We can help you navigate rebates, tax credits, and financing options so that the upgrades fit within your budget. We are coordinating contractors and arranging lower rates by bundling upgrades with other homeowners in your community. For homes on Great Cranberry Island, we will cover the costs of barging materials and equipment to the island and housing for contractors, to reduce your overall project costs.
 
 # There are 10\* steps for reducing energy costs at your home
