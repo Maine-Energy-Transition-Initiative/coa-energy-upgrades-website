@@ -1,7 +1,7 @@
 ---
 title: "5 - Electric appliances"
 description: "Improved health and safety while improving energy costs and reducing fossil fuel usage"
-image: placeholder_steps.jpg
+image: electric_app.jpeg
 image-alt: "placeholderphotot."
 ---
 
@@ -9,7 +9,7 @@ image-alt: "placeholderphotot."
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](placeholder_steps.jpg)
+![](electric_app.jpeg)
 :::
 
 ::: {.column width="10%"}

@@ -30,9 +30,6 @@ website:
   page-footer:   
     left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
     center: "![](logos/Logos-together.png)"
-    right:  
-      - icon: github
-        href: https://github.com/LaurieLBaker/CEDS-Energy
     background: "#808080"
   back-to-top-navigation: false 
 format:

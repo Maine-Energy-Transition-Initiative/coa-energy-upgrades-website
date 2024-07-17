@@ -1,14 +1,14 @@
 ---
 title: "2 - LED light bulbs"
 description: "Higher quality, longer-lasting light that costs less on electricity bills"
-image: placeholder_steps.jpg
-image-alt: "placeholderphotot."
+image: LED.jpeg
+image-alt: "Lamp with LED light bulb on a night stand with a plant and box tissue"
 ---
 
 :::: {.columns}
 
 ::: {.column width="20%"}
-![](placeholder_steps.jpg)
+![](LED.jpeg)
 :::
 
 ::: {.column width="10%"}
