@@ -28,7 +28,7 @@ website:
       - href: signuppage.qmd
         text: SIGN UP FOR THE PROGRAM
   page-footer:   
-    left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Steert, Bar Harbor, ME, 04609"
+    left: " Contact us: 802 266 0301 <br> mdicommunityenergy@coa.edu <br> 105 Eden Street, Bar Harbor, ME, 04609"
     center: "![](logos/Logos-together.png)"
     background: "#808080"
   back-to-top-navigation: false 
