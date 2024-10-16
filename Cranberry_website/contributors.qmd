@@ -4,4 +4,4 @@ format: html
 editor: visual
 ---
 
-Your Name & Your Email
+Your Name and Your Email
