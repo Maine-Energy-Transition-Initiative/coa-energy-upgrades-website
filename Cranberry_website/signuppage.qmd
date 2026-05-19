@@ -2,8 +2,8 @@
 title: ""
 ---
 
-[CRANBERRY ISLES SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLScoj6ArUW5-MnY326ZV2xnk3v4JHbVcCPNzS-AoIszXK8cc7A/viewform)
+If you live on or around Mount Desert Island: [MDI SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLSesEccMfJ2NuZcVDRGo2-6Spb1KY5zfDyObw1kBiIf8a5Se3A/viewform?usp=dialog)
 
-[SIPAYIK SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLScXaymzpVfAA-zBD0jpE8o2We2PFylwGJ9zf06vJL7cV4jYYw/viewform)
+If you live in or around Sipayik: [SIPAYIK SIGN UP](https://docs.google.com/forms/d/e/1FAIpQLScXaymzpVfAA-zBD0jpE8o2We2PFylwGJ9zf06vJL7cV4jYYw/viewform)
 
 [More about the program](about.qmd)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [What to expect after signing up](process.qmd)
