@@ -18,17 +18,17 @@
   {
     "listing": "/10steps.html",
     "items": [
+      "/tensteps/other-steps.html",
+      "/tensteps/07-step.html",
       "/tensteps/01-step.html",
+      "/tensteps/04-step.html",
+      "/tensteps/08-step.html",
       "/tensteps/02-step.html",
       "/tensteps/03-step.html",
-      "/tensteps/04-step.html",
       "/tensteps/05-step.html",
-      "/tensteps/06-step.html",
-      "/tensteps/07-step.html",
-      "/tensteps/08-step.html",
       "/tensteps/09-step.html",
       "/tensteps/10-step.html",
-      "/tensteps/other-steps.html"
+      "/tensteps/06-step.html"
     ]
   }
 ]
