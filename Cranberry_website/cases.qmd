@@ -36,6 +36,5 @@ After conducting a home energy audit, the heating system was switched from a hea
 ![Carriage's attic after energy improvements.](images/carriage_after.jpg){fig-alt="Image of Carriges attic after the insulation was fixed and a ceiling was placed." fig-align="left" width="396"}
 
 These upgrades have resolved the moisture problems, and ensured that the house is heated sufficiently throughout the winter. But what about the bonus upgrades? The heat pumps added air conditioning for the summer, the house is no longer using fossil fuels and cheaper to heat and cool, and the attic was converted to usable space.
-------------------------------------------------------------------------
 
-**Convinced by the power of home energy improvements? Take the first step by [signing up for an audit here](signuppage.qmd)!**
+**Convinced by the power of home energy improvements? Take the first step by [signing-up for an audit here](signuppage.qmd)!**
