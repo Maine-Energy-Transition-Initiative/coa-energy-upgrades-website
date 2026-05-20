@@ -21,8 +21,6 @@ After conducting a home energy audit, the heating system was switched from a hea
 
 These upgrades have resolved the moisture problems, and ensured that the house is heated sufficiently throughout the winter. But that's not all, as is often the case, the audit and improvements came with a few bonus upgrades! The heat pumps are now also able to provide air conditioning in the summer, and the house is no longer using fossil fuels, it is now completely powered by electricity, which has saved us a lot of money as almost all of CoA's electricity is produced by local solar arrays.
 
-------------------------------------------------------------------------
-
 ## Carriage
 
 ![](images/carriage_house.jpg){fig-alt="Image of the front of Carriage house. It is a wide blue house with a standing seem metal roof. There is a stone foundation and steps up to the front porch."}
@@ -37,4 +35,4 @@ After conducting a home energy audit, the heating system was switched from a hea
 
 These upgrades have resolved the moisture problems, and ensured that the house is heated sufficiently throughout the winter. But what about the bonus upgrades? The heat pumps added air conditioning for the summer, the house is no longer using fossil fuels and cheaper to heat and cool, and the attic was converted to usable space.
 
-**Convinced by the power of home energy improvements? Take the first step by [signing-up for an audit here](signuppage.qmd)!**
+Convinced by the power of home energy improvements? **Take the first step by [signing-up for an audit here](signuppage.qmd)!**
