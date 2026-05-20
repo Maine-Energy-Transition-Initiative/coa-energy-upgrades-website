@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-Through a combination of grants and donations, the Community Energy Center at College of the Atlantic is able to offer free home energy audits in Downeast Maine. The program is about to enter its third summer and allows CoA students to kick start careers in sustainable energy and building science.
+Through a combination of grants and donations, the Community Energy Center at College of the Atlantic is able to offer free home energy audits in Downeast Maine. The program is about to enter its third summer and allows CoA students to kick start careers in sustainable energy and building science while providing a great service to the rural communities around them.
 
 ![The Community Energy Center at College of the Atlantic](images/CEC.jpg)
 
