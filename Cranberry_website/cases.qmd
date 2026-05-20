@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Case Studies"
 format: html
 editor: visual
 css: style.css
@@ -7,19 +7,21 @@ css: style.css
 
 # Home Energy Upgrades Case Studies
 
-The two case studies below are of the buildings that are located on Collage of the Atlantic's campus. Since 2021 COA has started to implement the 10\* steps to reduce energy costs to it's aged buildings that were family residents in the past. Those buildings are really similar to average Maine homes.
+A look at two buildings on Collage of the Atlantic's campus and how they have benefitted from energy audits and improvements. Both of these buildings were constructed as single family homes and are used as residences for students and staff.
 
-## Cottage Case Study
+## Cottage
 
 ![](images/cottage.jpeg){fig-alt="Small, white, two story house with a raised stone foundation and a large fenced and covered porch."}
 
-The Cottage house was built in 1880 and the residents over the years have complained of moisture issues and insufficient heating and cooling. The school also didn't like the cost of the heating oil deliveries or that it it was dependent on fossil fuels. After doing a comprehensive energy audit it was determined to need two heat pumps (one on each floor) and a heat pump water heater. As well as the basement needing a vapor barrier and insulation.
+The house we now call Cottage was built in 1880 and is located just next to the main campus entrance. Over the years, students living here have complained about moisture problems, as well as heating and cooling issues.
+
+After conducting a home energy audit, the heating system was switched from a heating oil furnace to a fully electric heat pump system, the domestic hot water was switched to a heat pump water heater, and the basement was sealed with a vapor barrier and insulated with spray foam.
 
 ![Cottage basement after improvements were made.](images/cottage_basement_improvements.jpeg){fig-alt="Image of the basement of Cottage after energy improvements have been made. The walls have been spray foamed and there is thick rubber vapor barrier over the floor and half way up the walls." fig-align="left" width="396"}
 
-Before the energy improvements were made the total amount of energy the house was using was high and most was being wasted do to the leaky basement. Now the house is much tighter, uses less energy more efficiently and is no longer reliant on fossil fuels. The residents no longer have moisture issues and comfortable heating and cooling year round.
+These upgrades have resolved the moisture problems, and ensured that the house is heated sufficiently throughout the winter. But that's not all, as is often the case, the audit and improvements came with a few bonus upgrades! The heat pumps are now also able to provide air conditioning in the summer, and the house is no longer using fossil fuels, it is now completely powered by electricity, which has saved us a lot of money as almost all of CoA's electricity is produced by local solar arrays.
 
-## Carriage Case Study
+## Carriage
 
 ![](images/carriage_house.jpg){fig-alt="Image of the front of Carriage house. It is a wide blue house with a standing seem metal roof. There is a stone foundation and steps up to the front porch."}
 
